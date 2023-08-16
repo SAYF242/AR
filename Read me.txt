@@ -1,0 +1,15 @@
+I wanted to share my experience and challenges encountered while working on the AR project you assigned for testing.
+
+As a newcomer to AR development, I found the project itself to be relatively straightforward. However, the testing phase presented a series of difficulties that I navigated to the best of my ability.
+
+One of the major obstacles was device compatibility. Unfortunately, my Android phone does not support AR games, and most of my friends use iPhones. Additionally, the one friend who had an Android device with AR capabilities was limited by the lack of support for the required feature. In an attempt to address this, I experimented with various emulators, including "BlueStack," "MEmu," and the Android Studio Emulator. Regrettably, I encountered consistent game crashes on all these platforms.
+
+After several iterations and testing approaches, I managed to connect with a friend in Pakistan who had a compatible Android device. However, due to the time zone difference, coordinating testing and receiving feedback often posed challenges. His responses were sometimes delayed due to differing schedules.
+
+While I successfully completed all the necessary project requirements, I regrettably couldn't tackle the bonus requirements within the given timeframe. The nature of these enhancements – such as integrating a 2D character animation to teach numbers, interactive responses to user actions, and overall polishing – required a significant amount of time and additional testing.
+
+I truly believe that these bonus features could significantly elevate the user experience and engagement of the game. Ideas like a teaching character that responds with animations to user selections sound engaging and interactive. Unfortunately, as every change needed to be sent to my testing friend for verification, this process often introduced delays that impacted my ability to fully implement these enhancements.
+
+In summary, I'd like to express my gratitude for providing me with this opportunity to work on the AR project. This experience has been invaluable in teaching me the intricacies of AR development and testing. I'm dedicated to continually refining my skills and hope to overcome the challenges I encountered during this project.
+
+Thank you once again for entrusting me with this task, and I look forward to any feedback or insights you may have.

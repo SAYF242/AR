@@ -1,0 +1,20 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="UIController">
+			<method name="CorrctOption"/>
+			<method name="FindNextnumber"/>
+			<method name="RestartGame"/>
+			<method name="StartGame"/>
+			<method name="WrongOption"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AudioModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>
